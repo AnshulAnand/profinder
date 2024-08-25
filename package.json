@@ -1,0 +1,15 @@
+{
+  "name": "profinder",
+  "version": "1.0.0",
+  "description": "This is a freelancer platform for SIH hackathon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Anshul Anand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
